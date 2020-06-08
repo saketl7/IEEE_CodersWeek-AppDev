@@ -7,7 +7,7 @@ Create an app which consists of a single button and a counter. On tapping the bu
 Create a basic calculator app with features like Addition, Subtraction, Division and Multiplication.
 
 
-## Resources :
+# Resources :
 Getting started with Basics of UI, different layouts available, using basic components like buttons (some small advance topics like Changing shape of Components through a seperate xml file and adding scrollview)
 
 Textual Documents :
