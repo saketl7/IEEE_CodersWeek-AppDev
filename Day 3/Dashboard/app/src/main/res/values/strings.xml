@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="javascript">Javascript</string>
+    <string name="Java">Java</string>
+    <string name="swift">Swift</string>
+    <string name="Python">Python</string>
+    <string name="C">C++</string>
+    <string name="Javascript">Javascript</string>
+    <string name="python">Python</string>
+    <string name="kotlin">kotlin</string>
+    <string name="java">Java</string>
+    <string name="c">C++</string>
+    <string name="Swift">Swift</string>
+    <string name="Kotlin">Kotlin</string>
+</resources>
